@@ -1,5 +1,13 @@
 # IRC server
 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+Authors: Martijn Wallage, <a href="https://github.com/Bussiereg">Guillaume Bussiere</a>, <a href="https://github.com/julesrb">Jules Bernard</a>
+
+A project of the 42 Core Curriculum
+
+Score: 125%
+
 ![Demo GIF](gif_and_image/irc_demo.gif)
 
 ## Table of Contents
